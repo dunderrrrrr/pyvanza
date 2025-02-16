@@ -34,7 +34,7 @@ terminaltables==3.1.10
 tqdm==4.62.3
 trio==0.19.0
 trio-websocket==0.9.2
-urllib3==1.26.8
+urllib3==1.26.19
 w3lib==1.22.0
 websockets==10.1
 wsproto==1.0.0
