@@ -12,7 +12,7 @@ cssselect==1.1.0
 EasyProcess==1.1
 fake-useragent==0.1.11
 h11==0.13.0
-idna==3.3
+idna==3.7
 importlib-metadata==4.10.1
 lxml==4.7.1
 outcome==1.1.0
