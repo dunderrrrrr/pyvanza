@@ -31,7 +31,7 @@ sniffio==1.2.0
 sortedcontainers==2.4.0
 soupsieve==2.3.1
 terminaltables==3.1.10
-tqdm==4.62.3
+tqdm==4.66.3
 trio==0.19.0
 trio-websocket==0.9.2
 urllib3==1.26.8
